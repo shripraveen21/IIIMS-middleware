@@ -25,7 +25,7 @@ load_dotenv('.env')
 logger = logging.getLogger("uvicorn")
 
 # Database configuration
-DATABASE_URL = "dbname=postgres user=postgres password=shripraveen host=34.46.30.132 port=5432"
+DATABASE_URL = "dbname=postgres_2rel user=postgres_ password=XIY8O5WSN8vuefKH1UAXcL84uaT4QtWa host=dpg-cs99eraj1k6c73fkgb1g-a.singapore-postgres.render.com port=5432"
 
 app = FastAPI()
 
